@@ -5,6 +5,8 @@ description: 'This resource contains information about Leftovers : Aleatory, Int
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/e8af9fb28e16fd97a837f36adcd9e76e_outline_1207.pdf
 file_size: 62834
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains the readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -222,7 +224,7 @@ Ives, Charles. "Music and Its Future." In \[Strunk v.7\].
 
 ———. Selected Writings. In _Music in the Western World_. Edited by P. Weiss and R. Taruskin New York, NY: Schirmer, 1984, pp. 423-26. ISBN: 9780028729008.
 
-Thoreau, Henry David. _Walden_. Chapter 1, essentially the first 20 pages or so. (Excerpts) ({{% resource_link "e6b56a4d-1932-469b-9635-d02e6b4f87b9" "Download a copy of Walden from Project Gutenberg" %}}.)
+Thoreau, Henry David. _Walden_. Chapter 1, essentially the first 20 pages or so. (Excerpts) ([Download a copy of Walden from Project Gutenberg](http://www.gutenberg.org/etext/205).)
 
 Block, Geoffrey. _Ives: Concord Sonata_. New York, NY: Cambridge University Press, 1996. ISBN: 9780521498210.
 
@@ -422,7 +424,7 @@ Serialism 2: Nono and Stravinsky
 
 Morgan. "Stravinsky and Serialism." pp. 355-58.
 
-Guerrero, Jeannie Ma. "{{% resource_link "c21153e8-5710-4884-a276-5ccdc5efa004" "Serial Intervention in Nono's Ilcanto Sospeso" %}}." _Music Theory Online_ 12.1 (February 2006).
+Guerrero, Jeannie Ma. "[Serial Intervention in Nono's Ilcanto Sospeso](http://mto.societymusictheory.org/issues/mto.06.12.1/mto.06.12.1.guerrero_frames.html)." _Music Theory Online_ 12.1 (February 2006).
 
 
 {{< tdclose >}}

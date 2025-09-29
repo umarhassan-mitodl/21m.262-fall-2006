@@ -5,6 +5,8 @@ description: This resource contain an excerpt from a really awful twelve-tone st
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/8ee91f66d23ac489e4b3a36a35ef14aa_worksheet2.pdf
 file_size: 40064
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'This resourse contains information about Leftovers : Maurice Ravel
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/3306c4bd9cfb00465d36e7c6c5a76471_outline_919.pdf
 file_size: 51357
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

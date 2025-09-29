@@ -6,6 +6,8 @@ description: 'This resource contains information about America after WWI: the ?m
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/0d830e9053de0344d0e9ef77ec329487_lec_outline_1026.pdf
 file_size: 46768
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

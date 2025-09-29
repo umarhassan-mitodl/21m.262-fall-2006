@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains problems to test students understanding of course
   material.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,17 +46,17 @@ This assignment involves creating or substantially revising a Wikipedia article 
 
 ### Examples of Student Work
 
-Antheil, George. {{% resource_link "fecf5493-fec1-4acb-8fc6-e38b65717247" "Ballet Mécanique" %}}.
+Antheil, George. [Ballet Mécanique](http://en.wikipedia.org/wiki/Ballet_m%C3%A9canique).
 
-Barber, Samuel. {{% resource_link "c6e7b078-71fa-49a3-8b03-43dff809ad7e" "Knoxville: Summer of 1915" %}}.
+Barber, Samuel. [Knoxville: Summer of 1915](http://en.wikipedia.org/wiki/Knoxville:_Summer_of_1915).
 
-Bartok, Bela. {{% resource_link "726bff3d-20e6-4ef8-ac17-3e7ee48acfba" "Piano Concerto No. 3" %}}.
+Bartok, Bela. [Piano Concerto No. 3](http://en.wikipedia.org/wiki/Piano_Concerto_No._3_%28Bart%C3%B3k%29).
 
-Beach, Amy. {{% resource_link "48dcff92-8ef0-494a-bc39-e169b6d4b5af" "Mass in E Flat Major" %}}.
+Beach, Amy. [Mass in E Flat Major](http://en.wikipedia.org/wiki/Mass_in_E_flat_Major).
 
-Ives, Charles. {{% resource_link "93f43cfc-cb3d-4e6d-b6e8-58ba6410af6b" "Three Places in New England" %}}.
+Ives, Charles. [Three Places in New England](http://en.wikipedia.org/wiki/Three_Places_in_New_England).
 
-Seeger, Ruth Crawford. {{% resource_link "ea548329-e147-405f-b571-8a521dcf0e2a" "Chinaman, Laundryman" %}}.
+Seeger, Ruth Crawford. [Chinaman, Laundryman](http://en.wikipedia.org/wiki/Chinaman%2C_Laundryman).
 
 Final Paper
 -----------
