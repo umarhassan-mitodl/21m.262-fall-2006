@@ -6,8 +6,6 @@ description: 'This resource contains information about Leftovers : Shostakovich,
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/ea6fa941ea4cdd547f0582e692c31381_lec_outline_1109.pdf
 file_size: 69842
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

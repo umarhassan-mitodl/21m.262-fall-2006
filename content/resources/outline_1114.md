@@ -5,8 +5,6 @@ description: This resource contains information about American Serialism, Europe
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/942dde78519fa1689b93224d28686a53_outline_1114.pdf
 file_size: 65061
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

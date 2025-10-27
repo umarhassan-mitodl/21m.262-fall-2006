@@ -6,8 +6,6 @@ description: This resource contains information about  Stravinsky, Finish, B?la 
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/2c16cce5907bee4b0974d9c8c4ad1836_outline_914.pdf
 file_size: 41018
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

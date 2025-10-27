@@ -6,8 +6,6 @@ description: 'This resource contains information about Early life: interest in S
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/a703c6119c5035df92b83e5ded0ad54b_outline_1130.pdf
 file_size: 48357
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: This resource contains information about Britten, Peter Grimes (194
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/e608625d8f34923ce329006d91198463_lec_outline_1107.pdf
 file_size: 44166
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

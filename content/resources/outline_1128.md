@@ -5,8 +5,6 @@ description: This resource contains information about Modes of Musical Reproduct
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/b673fb9aa29655ec75057055d09db613_outline_1128.pdf
 file_size: 50104
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

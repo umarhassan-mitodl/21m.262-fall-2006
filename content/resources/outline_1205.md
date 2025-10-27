@@ -6,8 +6,6 @@ description: 'This resource contains information about Open Score and the Open W
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/85c2ebc8825847261e9b036f98bbf36b_outline_1205.pdf
 file_size: 43119
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

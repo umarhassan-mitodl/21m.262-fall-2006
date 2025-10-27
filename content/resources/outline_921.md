@@ -5,8 +5,6 @@ description: This resource contains information about Schoenberg (1874?51) and a
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/6be390a47841de79ac0f11aa327b6931_outline_921.pdf
 file_size: 50853
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

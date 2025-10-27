@@ -5,8 +5,6 @@ description: 'This resource contains information about Serialism Conclusion: Non
 file: /courses/21m-262-modern-music-1900-1960-fall-2006/50c3ca99d1d33cc0f5b6107d698f3eed_outline_1121.pdf
 file_size: 26896
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
